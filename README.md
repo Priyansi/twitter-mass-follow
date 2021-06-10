@@ -12,7 +12,7 @@ This is a simple Python script that follows everyone a Twitter user/users are fo
 
 **2** (Optional): Set up a virtual environment.
 
-**3**: `pip install requirements.txt`
+**3**: `pip install -r requirements.txt`
 
 **4**: I didn't push my API keys so you gotta get yours. [Here's how](https://developer.twitter.com/en/docs/labs/covid19-stream/quick-start#:~:text=Navigate%20to%20your%20app%20dashboard,API%20secret%20key%20into%20consumer_secret.).
 
